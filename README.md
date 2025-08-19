@@ -7,7 +7,7 @@
 
 <br>
 
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **Sobre mi**
 
 <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 
@@ -32,7 +32,7 @@
 
 <p align="center">
 
-- **Languages**:  
+- **Lenguajes**:  
    
    ![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)  
    ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
@@ -42,7 +42,7 @@
 
 <br>  
 
-- **Backend Development**:  
+- **Backend**:  
 
    ![.NET](https://img.shields.io/badge/.NET%20-%23512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white)  
    ![ASP.NET](https://img.shields.io/badge/ASP.NET%20-%230072C6.svg?style=for-the-badge&logo=dotnet&logoColor=white)  
@@ -51,7 +51,7 @@
 
 <br>  
 
-- **Front-End Development**:  
+- **Front-End**:  
 
    ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
    ![CSS3](https://img.shields.io/badge/CSS3%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  
@@ -61,14 +61,14 @@
 
 <br>  
 
-- **Databases**:  
+- **Bases de datos**:  
 
    ![SQL Server](https://img.shields.io/badge/SQL%20Server-%23CC2927.svg?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)  
    ![MySQL](https://img.shields.io/badge/MySQL%20-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)  
 
 <br>  
 
-- **Tools & Others**:  
+- **Otras tecnologias**:  
 
    ![Git](https://img.shields.io/badge/Git%20-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)  
    ![Bitbucket](https://img.shields.io/badge/Bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)  
@@ -82,7 +82,7 @@
 <br>
 <br>
 
-## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
+## <b> Contactame..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 <br>
 <div align='left'>
 
